@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    
+      
+      font-family: Roboto, monospace;
+}
+ 
+ 
+
+.main{
+    display: flex;
+flex-direction: row;
+    width: 100%;
+    padding: 20px;
+
+
+}
+.one{
+   width:60%;
+}
+.first{
+    font-size: 10px;
+    margin: 2px 0px 0px 0px;
+    font-weight: 400;
+    font-family: Roboto, monospace;
+}
+h1{
+        margin: 5px 0px 0px 0px;
+    font-size: 36px;
+   font-family: Roboto, monospace;
+}
+.text{
+        font-family: Roboto, monospace;
+        font-weight: 500;
+}
+.second{
+    background-color: azure;
+    font-weight: 400;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+
+}
+
+.two{
+    width:40%;
+        
+    color: #333;
+
+    font-size: 12px;
+    margin: 0px 0px 10px 0px;
+    
+    
+    
+}
+h3{
+    font-size: 12px;
+}
+a{
+  color: #833ae0;
+    font-weight: 600;
+    display: block;
+    margin: 10px 0px 0px 0px;
+}
+.three{
+    margin-bottom: 20px;
+    background-color: #EEE;
+     padding: 20px;
+     
+     
+}
+.four{
+    background-color: #EEE;
+    padding: 20px;
+}
+/* h2{
+    font-size: ;
+} */
